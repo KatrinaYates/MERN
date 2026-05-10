@@ -1,9 +1,20 @@
 import dotenv from "dotenv";
 import mongoose from "mongoose";
 import Project from "../models/Project.js";
-import projectsData from "../data/projects.json" assert { type: "json" };
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
 
 dotenv.config();
+
+const __filename = fileURLToPath( import.meta.url );
+const __dirname = path.dirname( __filename );
+
+const projectsPath = path.join( __dirname, "../data/projects.json" );
+
+const projectsData = JSON.parse(
+    fs.readFileSync( projectsPath, "utf-8" )
+);
 
 async function seed () {
     try {
