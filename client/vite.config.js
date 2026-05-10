@@ -7,13 +7,13 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://mern-6w4s.onrender.com/',
+        target: 'http://localhost:3000',
         changeOrigin: true,
       },
       '/images': {
-        target: 'https://mern-6w4s.onrender.com/',
+        target: 'http://localhost:3000',
         changeOrigin: true,
       },
     },
   },
-})
+});
