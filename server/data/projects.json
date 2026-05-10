@@ -1,0 +1,30 @@
+{
+    "intro": {
+        "eyebrow": "Featured Work",
+        "title": "A few projects that reflect how I build",
+        "description": "These featured projects highlight the kind of work I enjoy most: thoughtful systems, polished implementation, and collaborative problem solving across design and engineering."
+    },
+    "items": [
+        {
+            "title": "Aloha: Reusable Component Framework",
+            "category": "Component Framework",
+            "tools": ["WordPress", "Gutenberg", "PHP", "CSS", "JavaScript"],
+            "description": "Led development of a Gutenberg-based component library used across multiple large-scale sites. My focus was block architecture, styling patterns, and accessibility to ensure consistency and scalability. The system allows editors to build content quickly with reusable components while maintaining reliable design and behavior across the platform.",
+            "image": "/images/projects/aloha.png"
+        },
+        {
+            "title": "Disney Parks Blog",
+            "category": "Enterprise website",
+            "tools": ["React", "WordPress", "Gutenburg"],
+            "description": "Front-end and UX engineering for a high-traffic editorial site, with a focus on reusable components, accessibility, performance, and content workflows built on the Aloha platform. Supported millions of monthly visitors with accessible, performant UI and gave editorial teams flexibility without letting design drift.",
+            "image": "/images/projects/dpb.png"
+        },
+        {
+            "title": "Disney Experiences",
+            "category": "Enterprise website",
+            "tools": ["React", "WordPress", "Design systems", "SCSS"],
+            "description": "Led front-end development for a brand-forward enterprise site, extending shared Aloha components with product-specific styling and content-driven behavior. Extended shared components to support expressive, brand-specific layouts and kept system consistency while allowing strong visual storytelling.",
+            "image": "/images/projects/dx.png"
+        }
+    ]
+}

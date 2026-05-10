@@ -1,0 +1,73 @@
+{
+    "intro": {
+        "eyebrow": "My Path",
+        "title": "A snapshot of my background in UX engineering, front-end systems, and technical leadership",
+        "description": "From retail floors to Disney magic, every role shaped how I lead and build today."
+    },
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "Florida Institute of Technology",
+            "focus": "Computer Information Systems",
+            "gpa": "4.0",
+            "year": "2026"
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of North Alabama",
+            "focus": "Computer Science",
+            "gpa": "4.0",
+            "year": "2022"
+        }
+    ],
+    "experience": [
+        {
+            "title": "Senior Creative Developer, UX Engineering Focus",
+            "company": "The Walt Disney Company",
+            "dates": "2022-Present",
+            "description": "Leading front-end and UX engineering work for high-traffic digital experiences with a focus on scalable systems, accessibility, and maintainability.",
+            "items": [
+                "Lead development for high-traffic Disney sites with a strong quality and accessibility focus",
+                "Architect and maintain Aloha, a reusable Gutenberg-based platform for scalable content publishing",
+                "Partner cross-functionally to scope work, align decisions, and ship cleanly",
+                "Own code review quality, UX validation, and technical standards",
+                "Support teams through training, enablement, and documentation"
+            ]
+        },
+        {
+            "title": "Software Engineer, Front-End / UX",
+            "company": "nSide",
+            "dates": "2020-2022",
+            "description": "Built responsive and accessible UI for a school safety platform, with a strong emphasis on usability and clean implementation.",
+            "items": [
+                "Built responsive, accessible UI components for a safety-focused web platform",
+                "Implemented forms, tagging, and user-facing flows to reduce friction",
+                "Worked in a GitLab-based team workflow and shipped with a quality-first mindset"
+            ]
+        },
+        {
+            "title": "Creative UX Developer",
+            "company": "Independent Contractor",
+            "dates": "2019-2022",
+            "description": "Designed and built custom sites and interactive digital experiences for clients, balancing usability, aesthetics, and practical delivery.",
+            "items": [
+                "Designed and built custom sites and interactive prototypes for small businesses and creative clients",
+                "Translated design direction into responsive, cross-browser UI",
+                "Balanced client goals, timelines, and quality while owning delivery end-to-end"
+            ]
+        },
+        {
+            "title": "Technical District Manager, Multi-Location Ops",
+            "company": "Cellairis",
+            "dates": "2012-2018",
+            "description": "Led technical operations across multiple retail locations, combining hands-on problem solving, process improvement, and team leadership.",
+            "items": [
+                "Led technical repair operations across multiple locations",
+                "Built training playbooks and coached store leaders and technicians",
+                "Turned underperforming locations into top performers through operational improvements",
+                "Served as escalation point for complex technical and operational issues",
+                "Drove measurable business and performance gains"
+            ]
+        }
+    ]
+}

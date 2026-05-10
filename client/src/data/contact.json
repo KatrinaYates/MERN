@@ -1,0 +1,29 @@
+{
+    "intro": {
+        "eyebrow": "Let’s Connect",
+        "title": "Ready to make something great?",
+        "description": "If you’re building something thoughtful, need a creative partner, or just want to start a conversation, I’d love to hear from you."
+    },
+    "directContact": [
+        {
+            "label": "Email",
+            "text": "Katrina.yates14@gmail.com",
+            "href": "mailto:Katrina.yates14@gmail.com"
+        },
+        {
+            "label": "Phone",
+            "text": "(256) 577-9292",
+            "href": "tel:+12565779292"
+        },
+        {
+            "label": "LinkedIn",
+            "text": "linkedin.com/in/katrina-yates",
+            "href": "https://linkedin.com/in/katrina-yates"
+        },
+        {
+            "label": "Location",
+            "text": "📍 Orlando, FL",
+            "href": "https://www.google.com/maps/place/Orlando,+FL"
+        }
+    ]
+}

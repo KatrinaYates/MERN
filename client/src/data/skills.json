@@ -1,0 +1,112 @@
+{
+    "intro": {
+        "eyebrow": "Technical & Leadership Strengths",
+        "title": "The systems, practices, and strengths behind how I work",
+        "description": "I care about building things that are scalable, maintainable, and actually useful for the people working with them. That includes both the code itself and the standards, collaboration, and structure around it."
+    },
+    "technicalSkills": [
+        {
+            "title": "Languages",
+            "items": [
+                "JavaScript",
+                "PHP",
+                "HTML",
+                "CSS",
+                "SCSS"
+            ]
+        },
+        {
+            "title": "Frameworks & Libraries",
+            "items": [
+                "React",
+                "Next.js",
+                "WordPress",
+                "Gutenberg"
+            ]
+        },
+        {
+            "title": "Tools & Platforms",
+            "items": [
+                "Git",
+                "GitLab",
+                "GitHub",
+                "Docker",
+                "Figma",
+                "Jira",
+                "Confluence"
+            ]
+        },
+        {
+            "title": "Development Practices",
+            "items": [
+                "Agile",
+                "Scrum",
+                "Kanban",
+                "CI/CD",
+                "Code Review",
+                "Accessibility (WCAG)",
+                "Design Systems",
+                "Component Architecture",
+                "Cross-functional Collaboration"
+            ]
+        }
+    ],
+    "leadershipStrengths": [
+        {
+            "title": "Code Reviews",
+            "description": "Thoughtful, collaborative reviews that improve quality without slowing teams down.",
+            "items": [
+                "Shared review guidelines",
+                "Accessibility + maintainability focus",
+                "Encourages team learning"
+            ]
+        },
+        {
+            "title": "Standards & Documentation",
+            "description": "Clear, practical standards that help teams work confidently and independently.",
+            "items": [
+                "Component & block standards",
+                "SCSS structure + naming",
+                "Accessibility + performance docs"
+            ]
+        },
+        {
+            "title": "Technical Leadership",
+            "description": "Leads through ambiguity with strong direction and thoughtful decision-making.",
+            "items": [
+                "Platform-level initiatives",
+                "Smart tradeoffs",
+                "Unblocking teams"
+            ]
+        },
+        {
+            "title": "Mentorship & Support",
+            "description": "Helps engineers grow through onboarding, pairing, and ongoing support.",
+            "items": [
+                "Developer onboarding",
+                "Pairing + reviews",
+                "Confidence building"
+            ]
+        },
+        {
+            "title": "Tools I Work In",
+            "description": "Comfortable across tools that support planning, building, and shipping.",
+            "items": [
+                "Git / GitLab",
+                "Docker",
+                "Confluence",
+                "Jira",
+                "WordPress / Gutenberg"
+            ]
+        },
+        {
+            "title": "Conference Speaking",
+            "description": "Shares real-world lessons with the developer community.",
+            "items": [
+                "WordCamp speaker",
+                "Component systems",
+                "Platform scaling insights"
+            ]
+        }
+    ]
+}

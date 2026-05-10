@@ -1,0 +1,17 @@
+{
+    "eyebrow": "Orlando, FL",
+    "title": "Hi, I'm Katrina",
+    "paragraphs": [
+        "I’m someone who thrives on connection and creativity. I genuinely enjoy bringing people together and creating spaces where everyone feels included and comfortable. Whether it’s through shared experiences, group activities, or just making sure the vibe feels right, I tend to be happiest when I’m surrounded by good energy and meaningful interactions.",
+        "I’m also drawn to playful, slightly magical moments in everyday life. Things like festivals, holidays, cozy environments, and anything with lights or a bit of sparkle tend to inspire me and recharge my creativity. When I’m not coding, you’ll probably find me listening to audiobooks, crafting something new, or diving into a fun series or game."
+    ],
+    "social": {
+        "text": "LinkedIn",
+        "url": "https://www.linkedin.com/"
+    },
+    "image": {
+        "src": "/images/headshot.jpg",
+        "alt": "Portrait of Katrina Yates",
+        "caption": "Headshot of Katrina Yates"
+    }
+}
